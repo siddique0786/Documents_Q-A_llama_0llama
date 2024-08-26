@@ -1,0 +1,8 @@
+streamlit==1.37.1
+langchain-community==0.2.12
+langchain==0.2.14
+faiss-cpu==1.8.0.post1
+unstructured==0.15.7
+unstructured[pdf]==0.15.7
+transformers==4.44.2
+sentence-transformers==3.0.1
